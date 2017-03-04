@@ -2,7 +2,7 @@
 
 Express.js is used to serve the website. To run it locally Install node.js clone the repository, go to root directory of the project in a command console and run:
 
-`npm install`
+`npm install`  
 `npm start`
 
 Now in a browser you get love at http://localhost:61116
