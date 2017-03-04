@@ -1,0 +1,11 @@
+title = [${temperature}${month}${weatherphaenomena}.]|[${color}${landscape}${emotion}]
+introPicture = Like an ${animal1}|${flower} with ${synonym[bursting]} expectations I ${synonym[shove]} through an uncontrollable ${synonym[fog]} of ${synonym[humbleness]} as i walk on the ${synonym[empty]} ${synonym[streets]}} of ${capital}.
+objectiveView = Everywhere i look a ${synonym[sexy]} ${animal} oddly makes an appearance.
+But wait ...
+break = The ${synonym[sexy]} ${animal} does not sound like i ${synonym[remember]} it. I am ${synonym[lost]} in this ${synonym[scenery] - flat}.
+love = ${user input LOVE}$ For a long time my ${synonym[glowing]} ${synonym[heart]} has been beating in the purest of passions.
+transistion = In another part of the ${synonym[world]} a ${synonym[confused] ${new Animal} ${synonym[shout] s} ${synonym[loudly] next to a ${synonym[flaming] bonfire.
+climax = Let us ${synonym[begin]} this magic ${synonym[dance]} of ${synonym[tenderness]}. Again, when we and our souls ${synonym[unite]} in the ${synonym[shadow]} of that ${synonym[askew]} ${tree} and proclaim our never ending ${synonym[Lust]}.
+end = ${synonym[overwhelming]} powers can not ${synonym[pull]} us away from the wonders of birth and ${synonym[wild] and ${synonym[horny]} unicorns$
+
+Api key = ZYHzJJQ5g3icL6UpVHPi
