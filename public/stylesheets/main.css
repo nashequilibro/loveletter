@@ -100,17 +100,16 @@ html {
   font-size: 1.4em;
   color: #e4e4e4;
   padding: 30px;
-  background: url(../images/bg2.jpg) no-repeat center right fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+}
+#container {
+  text-align: center;
 }
 
 #letter {
-  max-width: 400px;
-  width: 99%;
-  margin: 0 auto;
+  display: inline-block;
+  width: 20em;
+  height: auto;
+  padding: 2em;
 }
 
 

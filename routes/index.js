@@ -12,7 +12,19 @@ var pick = function(word) {
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  let love = loveletter.letter1()
+  var exp = ''
+  if (helper.coinflip()) {
+    exp = loveletter.exp1()
+  } else {
+    exp = loveletter.exp2()
+  }
+  var end = ''
+  if (helper.coinflip()) {
+    end = loveletter.end1()
+  } else {
+    end = loveletter.end2()
+  }
+  let love = exp + loveletter.climax() + end
   res.render('index', {
     loveletter: love,
     title: 'A fine loveletter',
