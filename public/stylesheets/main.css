@@ -98,8 +98,7 @@ textarea {
 html {
   font-family: 'Love Ya Like A Sister', cursive;
   font-size: 1.4em;
-  color: #e4e4e4;
-  padding: 30px;
+  color: #fff;
 }
 #container {
   text-align: center;
@@ -107,7 +106,7 @@ html {
 
 #letter {
   display: inline-block;
-  width: 20em;
+  max-width: 20em;
   height: auto;
   padding: 2em;
 }
