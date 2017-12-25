@@ -1,4 +1,4 @@
-### Read a loveletter: http://kaerleksgenerator.com
+### Read a loveletter
 
 Express.js is used to serve the website. To run it locally install node.js, clone the repository, go to root directory of the project in a command console and run:
 
